@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+.venv/
+*.swp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+# Keep the sample dataset in the repository for reproducibility
+# data/*.csv
+outputs/*
+images/*
+
+# System files
+.DS_Store
+Thumbs.db
