@@ -20,23 +20,24 @@ An enterprise-grade climate analytics platform featuring real-time data processi
 
 ### Overview Dashboard
 *Professional KPI metrics and real-time prediction preview*
-![Overview Dashboard] C:\Users\ARN\OneDrive\Pictures\Screenshots\Screenshot 2026-04-18 091302.png
+![Overview Dashboard] <img width="1887" height="916" alt="Screenshot 2026-04-18 091302" src="https://github.com/user-attachments/assets/65191957-2761-4e36-91c0-f89c3432647d" />
 
 ### Interactive Trend Analysis
 *Multi-variable time series with seasonal patterns*
-![Trend Analysis] C:\Users\ARN\OneDrive\Pictures\Screenshots\Screenshot 2026-04-18 091317.png
+![Trend Analysis] <img width="1534" height="875" alt="Screenshot 2026-04-18 091317" src="https://github.com/user-attachments/assets/4b69600e-e7c1-4e50-bc68-6ada82fa92f9" />
 
-### Advanced Forecasting
+### Advanced Forecasting 
+
 *Dual-model predictions with confidence intervals*
-![Forecast Analysis] C:\Users\ARN\OneDrive\Pictures\Screenshots\Screenshot 2026-04-18 091340.png
+![Forecast Analysis] <img width="1580" height="838" alt="Screenshot 2026-04-18 091340" src="https://github.com/user-attachments/assets/41676c00-399a-4ca0-9edd-72b587a20ac1" />
 
 ### Anomaly Detection
 *Real-time outlier identification with severity alerts*
-![Anomaly Detection] C:\Users\ARN\OneDrive\Pictures\Screenshots\Screenshot 2026-04-18 092343.png
+![Anomaly Detection] <img width="1534" height="478" alt="Screenshot 2026-04-18 092343" src="https://github.com/user-attachments/assets/17327022-2b51-4923-8bc8-e2d24ae8c966" />
 
 ### Model Explainability
 *AI feature importance and model transparency*
-![Model Explainability] C:\Users\ARN\OneDrive\Pictures\Screenshots\Screenshot 2026-04-18 092359.png
+![Model Explainability] <img width="1557" height="840" alt="Screenshot 2026-04-18 092359" src="https://github.com/user-attachments/assets/c8ba90d2-05e7-49a9-87fe-a2ee656e3c06" />
 
 ## �📊 Key Features
 
